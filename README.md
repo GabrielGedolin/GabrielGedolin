@@ -3,13 +3,12 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-    ![Bem-vindo ao meu GitHub!](https://github.com/DenverCoder1/readme-typing-svg.git)
+    ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7A600&width=435&lines=Bem-vindo+ao+meu+GitHub!)
 </p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
