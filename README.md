@@ -213,9 +213,9 @@
 
 <p align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
