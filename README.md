@@ -14,6 +14,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+<span style="background-color: #efeaa7; padding: 5px;">HTML</span>
 <img 
     align="left" 
     alt="HTML"
@@ -22,6 +23,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">CSS</span>
 <img 
     align="left" 
     alt="CSS" 
@@ -30,6 +32,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">JavaScript</span>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -38,6 +41,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">TypeScript</span>
 <img 
     align="left" 
     alt="TypeScript"
@@ -46,6 +50,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">React</span>
 <img 
     align="left" 
     alt="React"
@@ -54,6 +59,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">Next.js</span>
 <img 
     align="left" 
     alt="Next.js" 
@@ -62,6 +68,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">Bootstrap</span>
 <img 
     align="left" 
     alt="Bootstrap"
@@ -70,6 +77,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">SASS</span>
 <img 
     align="left" 
     alt="SASS" 
@@ -78,6 +86,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">Git</span>
 <img 
     align="left" 
     alt="Git" 
@@ -86,6 +95,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<span style="background-color: #efeaa7; padding: 5px;">Python</span>
 <img 
     align="left" 
     alt="Python" 
@@ -100,7 +110,7 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p style="background-color: #efeaa7; padding: 10px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
