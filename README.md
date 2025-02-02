@@ -104,7 +104,7 @@
     src="https://github-readme-stats.vercel.app/api?username=GahCyber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </div>
-
+<br/>
 <div align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
     align="center" 
