@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <h1 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
+  <h2 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h2>
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 30px;">📊 Estatísticas</h3>
+  <h2 style="font-weight: bold; font-size: 30px;">📊 Estatísticas</h2>
 </div>
 
 <div align="center" style="background-color: #efeaa7; padding: 10px;">
