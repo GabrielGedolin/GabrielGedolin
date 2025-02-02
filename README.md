@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=efeaa7&width=100%&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=efeaa7&width=700&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
 </p>
 
 <p align="center">
