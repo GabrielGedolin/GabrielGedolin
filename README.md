@@ -1,23 +1,22 @@
-# 👩🏻‍💻 Gabriel Gedolin
+# 👨🏻‍💻 Gabriel Gedolin
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel, moro em Presidente Prudente e sou desenvolvedor full-stack. Tenho experiência em JavaScript, TypeScript, Node.js, Next.js, React, Python, SQL, HTML e CSS. Possuo conhecimento em algoritmos, estruturas de dados e orientação a objetos, além de trabalhar com tecnologias modernas, bancos de dados, APIs e sistemas em produção
+Me chamo Gabriel, moro em Presidente Prudente e sou desenvolvedor full-stack. Tenho experiência em JavaScript, TypeScript, Node.js, Next.js, React, Python, SQL, Bootstrap, Sass, HTML e CSS. Possuo conhecimento em algoritmos, estruturas de dados e orientação a objetos, além de trabalhar com tecnologias modernas, bancos de dados, APIs e sistemas em produção.
 
 <p align="left">
-    
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GahCyber?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/GahCyber?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/GahCyber?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GahCyber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -150,14 +149,13 @@ Me chamo Gabriel, moro em Presidente Prudente e sou desenvolvedor full-stack. Te
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GahCyber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
