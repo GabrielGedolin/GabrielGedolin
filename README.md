@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-<p align="center" style="font-weight: bold; font-size: 30px;">📊 Estatísticas</p>
+<p align="center" style="font-weight: bold; font-size: 50px;">📊 Estatísticas</p>
 
 <p align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
