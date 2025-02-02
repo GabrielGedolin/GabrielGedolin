@@ -3,26 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-    <span id="welcome-message">Bem-vindo ao meu GitHub!</span>
+    ![Bem-vindo ao meu GitHub!](https://github.com/DenverCoder1/readme-typing-svg.git)
 </p>
-
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(10px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  #welcome-message {
-    font-size: 2em;
-    animation: fadeIn 2s ease-in-out;
-  }
-</style>
 
 ---
 
