@@ -2,28 +2,32 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel, moro em Presidente Prudente e sou desenvolvedor full-stack. Tenho experiência em JavaScript, TypeScript, Node.js, Next.js, React, Python, SQL, Bootstrap, Sass, HTML e CSS. Possuo conhecimento em algoritmos, estruturas de dados e orientação a objetos, além de trabalhar com tecnologias modernas, bancos de dados, APIs e sistemas em produção.
-
-<p align="left">
-    <a href="https://github.com/GahCyber?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GahCyber?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GahCyber?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GahCyber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+    <span id="welcome-message">Bem-vindo ao meu GitHub!</span>
 </p>
+
+<style>
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  #welcome-message {
+    font-size: 2em;
+    animation: fadeIn 2s ease-in-out;
+  }
+</style>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
