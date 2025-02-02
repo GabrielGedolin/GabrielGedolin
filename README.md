@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<p>📊 Estatísticas</p>
 
 <p align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
