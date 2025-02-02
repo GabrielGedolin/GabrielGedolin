@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0000&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
 </p>
 
-<p align="center">
+<p align="center" style="background-color: #efeaa7; padding: 10px;">
   Sou Gabriel Gedolin, um desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 </p>
 
@@ -14,115 +14,24 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<span style="background-color: #efeaa7; padding: 5px;">HTML</span>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">CSS</span>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">JavaScript</span>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">TypeScript</span>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">React</span>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">Next.js</span>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">Bootstrap</span>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">SASS</span>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">Git</span>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<span style="background-color: #efeaa7; padding: 5px;">Python</span>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+![HTML Badge](https://img.shields.io/badge/-HTML-efeaa7?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-efeaa7?style=flat-square&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-efeaa7?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-efeaa7?style=flat-square&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-efeaa7?style=flat-square&logo=react&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-efeaa7?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-efeaa7?style=flat-square&logo=git&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-efeaa7?style=flat-square&logo=python&logoColor=white)
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p style="background-color: #efeaa7; padding: 10px;">
+<p align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GahCyber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
