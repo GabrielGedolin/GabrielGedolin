@@ -10,7 +10,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left" style="background-color: #efeaa7; padding: 10px;">
+<p align="left">
   <img 
     align="left" 
     alt="HTML"
@@ -98,7 +98,7 @@
 
 ### 📊 Estatísticas
 
-<p align="center" style="background-color: #efeaa7; padding: 10px;">
+<p align="center" style="background-color: #f9f9f9; padding: 10px;">
   <img 
     align="center" 
     alt="GitHub Stats" 
@@ -107,7 +107,7 @@
   />
 </p>
 
-<p align="center" style="background-color: #efeaa7; padding: 10px;">
+<p align="center" style="background-color: #f9f9f9; padding: 10px;">
   <img 
     align="center" 
     alt="GitHub Stats" 
