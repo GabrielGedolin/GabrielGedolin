@@ -2,19 +2,19 @@
 
 **`Desenvolvedor FullStack`**
 
-<p align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   Sou Gabriel Gedolin, um desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
-</p>
+</div>
 
 ---
 
-<p align="center" style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</p>
+<div align="center" style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</div>
 
-<p align="center">
+<div align="center">
   <img 
       alt="HTML"
       title="HTML" 
@@ -85,27 +85,27 @@
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
-</p>
+</div>
 
 <br/>
 <br/>
 
-<p align="center" style="font-weight: bold; font-size: 30px;"> ### 📊 Estatísticas</p>
+<div align="center" style="font-weight: bold; font-size: 30px;">📊 Estatísticas</div>
 
-<p align="center" style="background-color: #efeaa7; padding: 10px;">
+<div align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
     align="center" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=GahCyber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
+</div>
 
-<p align="center" style="background-color: #efeaa7; padding: 10px;">
+<div align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
     align="center" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
