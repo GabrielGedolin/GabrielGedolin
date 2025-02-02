@@ -12,7 +12,9 @@
 
 ---
 
-<div align="center" style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</div>
+<div align="center">
+  <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
+</div>
 
 <div align="center">
   <img 
@@ -90,7 +92,9 @@
 <br/>
 <br/>
 
-<div align="center" style="font-weight: bold; font-size: 30px;">📊 Estatísticas</div>
+<div align="center">
+  <h3 style="font-weight: bold; font-size: 30px;">📊 Estatísticas</h3>
+</div>
 
 <div align="center" style="background-color: #efeaa7; padding: 10px;">
   <img 
