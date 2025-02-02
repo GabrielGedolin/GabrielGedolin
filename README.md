@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gabriel Gedolin
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gabriel, moro em Presidente Prudente e sou desenvolvedor full-stack. Tenho experiência em JavaScript, TypeScript, Node.js, Next.js, React, Python, SQL, HTML e CSS. Possuo conhecimento em algoritmos, estruturas de dados e orientação a objetos, além de trabalhar com tecnologias modernas, bancos de dados, APIs e sistemas em produção
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
