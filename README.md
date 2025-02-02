@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-    [Bem-vindo ao meu GitHub!](https://github.com/DenverCoder1/readme-typing-svg.git)
+    ![Bem-vindo ao meu GitHub!](https://github.com/DenverCoder1/readme-typing-svg/blob/master/dist/badge-typing.svg?font=Fira%20Code&size=30&duration=1000&lines=Bem-vindo+ao+meu+GitHub)
 </p>
 
 ---
