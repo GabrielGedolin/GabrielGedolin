@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
+  <h1 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
 </div>
 
 <div align="center">
