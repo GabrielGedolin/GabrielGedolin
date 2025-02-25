@@ -13,6 +13,12 @@
 ---
 
 <div align="center">
+  <img src="https://i.gifer.com/origin/8a/8a02e2bd34c6d5de3aceb3a27440182b.gif" alt="GIF" width="400" />
+</div>
+
+---
+
+<div align="center">
   <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
 </div>
 
@@ -113,4 +119,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
