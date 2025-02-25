@@ -1,23 +1,3 @@
-# 👨🏻‍💻 Gabriel Gedolin
-
-**`Desenvolvedor FullStack`**
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
-</div>
-
-<div align="center">
-  Sou Gabriel Gedolin, um desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.gifer.com/origin/8a/8a02e2bd34c6d5de3aceb3a27440182b.gif" alt="GIF" width="400" />
-</div>
-
----
-
 <div align="center">
   <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
 </div>
@@ -118,4 +98,8 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCyber&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</div>
+
+<div style="position: absolute; bottom: 10px; right: 10px;">
+  <img src="https://i.gifer.com/origin/8a/8a02e2bd34c6d5de3aceb3a27440182b.gif" alt="GIF" width="100" />
 </div>
